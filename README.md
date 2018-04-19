@@ -2,7 +2,7 @@
 
 ### Getting Started
 ```
-git clone https://github.com/cosmicjs/simple-blog
+git clone git@github.com:mpezzolano/node-blog.git
 cd simple-blog
 yarn
 ```
